@@ -16,8 +16,7 @@ title = "KooK@Tea"
   image = "img/kooktea-avatar.png"
   imageQuality = 96
   headline = "Something's brewing."
-  # Add your channels here when you're ready (remove the # at the start of a line):
   links = [
-    # { youtube = "https://www.youtube.com/@your-channel" },
-    # { bilibili = "https://space.bilibili.com/your-id" },
+    { youtube = "https://www.youtube.com/channel/UCOLoU-qEA63oB0ZqPDyt3KQ" },
+    { bilibili = "https://space.bilibili.com/227308776" },
   ]
